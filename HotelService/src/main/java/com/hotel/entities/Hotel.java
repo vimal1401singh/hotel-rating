@@ -8,7 +8,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
-
+//entity class for hotel
 @Getter
 @Setter
 @AllArgsConstructor
